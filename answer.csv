@@ -13,7 +13,7 @@ gini,1
 independent,0
 lasso,23
 linear,17
-logistic,36
+logistic,9
 loss,19
 matrix,29
 minimization,32
@@ -31,5 +31,5 @@ sigmoid,55
 significant,0
 target,46
 tstat,9
-x,47
-y,-999
+x,6
+y,0
